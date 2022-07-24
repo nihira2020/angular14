@@ -16,6 +16,7 @@
     "experimentalDecorators": true,
     "moduleResolution": "node",
     "importHelpers": true,
+    "typeRoots": ["node_modules/@types","src/alertifytype.d.ts"],
     "target": "es2020",
     "module": "es2020",
     "lib": [
